@@ -1,2 +1,2 @@
-# Python-Programa-o-extruturada
+# Python-Programação-estruturada
 Demonstração de conhecimentos em Python
